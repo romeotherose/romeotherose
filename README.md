@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @romeotherose
+- 👋 Hi, I’m Marco Lopez
 - 👀 I’m interested in guitars, video games and music.
 - 🌱 I’m currently learning html and css, im trying to learn new libraries and what not.
 - 📫 How to reach me marcoantoniolopezs@apple.com
